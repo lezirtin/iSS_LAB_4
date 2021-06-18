@@ -1,0 +1,36 @@
+div.div1{
+    width: screen-width;
+    height: auto;
+    border: 1px solid red;
+    padding: 10px;
+}
+div.div2{
+    position: absolute;
+    height: auto;
+    left: 150px;
+}
+div.div3{
+    align-content: center;
+    width: 150px;
+    position: relative;
+    left: 600px;
+    border: 1px solid black;
+}
+button.button1 {
+    background-color: lightgreen; 
+    border-color:  black;
+    padding: 20px;
+    border-radius: 50%;
+}
+button.button2 {
+    background-color: palevioletred; 
+    border-color: black;
+    padding: 20px;
+    border-radius: 50%;
+}
+button.button3 {
+    background-color: lightblue ;
+    border-color: black;
+    padding: 20px;
+    border-radius: 50%;
+}
